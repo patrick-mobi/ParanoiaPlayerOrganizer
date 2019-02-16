@@ -1,6 +1,19 @@
 from tkinter import *
 root = Tk()
 
+
+
+'''
+
+#Brian&O&OKR&4&Feuerfinger&Freier Markt&4&1&2&3&3&1&*&XX&662&Uralte Archivsysteme&Martial Arts&7&wortgewandt, vorsichtig, zufrieden&O Komm
+O Laser
+X Metallschlüssel
+B InvinciPille
+
+'''
+
+
+
 maxclone=6
 
 def death():
